@@ -10,3 +10,4 @@ During their way home, they leave behin feromones indicating the way to the food
 This way a really nice pattern emerges (especially when visualized using colors).
 
 ## What it looks like
+![Screenshot](ant_game.png)
